@@ -1,0 +1,127 @@
+body {
+
+	background-color: #4495e4;
+}
+
+.logo {
+
+	height: 75px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 46px;
+}
+
+.whiteform {
+
+
+	background-color: white;
+	width: 400px;
+	height: 550px;
+	padding-left: 40px;
+	padding-right: 40px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: 74px;
+}
+
+h1 {
+
+	font-family: Tahoma;
+	text-align: center;
+}
+
+.mailbox {
+
+	width: 320px;
+	height: 55px;
+	padding: 15px;
+	border: 2px gray solid;
+	border-radius: 3%;
+	position: relative;
+	top: 94px;
+	left: -38px;
+
+}
+
+.pbox {
+
+	width: 320px;
+	height: 55px;
+	padding: 15px;
+	border: 2px gray solid;
+	border-radius: 3%;
+	position: relative;
+	top: 150px;
+	left: -67px;
+
+}
+
+.email {
+
+	font-family: Helvetica;
+	position: relative;
+	top: 34px;
+	left: 10px;
+}
+
+
+.pword {
+
+	font-family: Helvetica;
+	position: relative;
+	top: 97px;
+	left: 10px;
+}
+a {
+	color: #7783a1;
+}
+	
+	
+
+
+.grnbtn {
+
+		position: relative;
+		top: 186px;
+		left: 8px;
+		width: 320px;
+		height: 55px;
+		padding: 15px;
+		border: 2px #68c373 solid;
+		border-radius: 3%;
+		background-color: #68c373;
+		font-size: 23px;
+		color: #fff;
+
+}
+
+.grnbtn:hover {
+
+		background-color: #155b1d;
+}
+
+h4 {
+
+	color: #c7ccc8;
+	font-family: Helvetica;
+	margin-top: 210px;
+	text-align: center;
+
+
+}
+
+.footer {
+
+	text-align: center;
+	font-family: Tahoma;
+	color: #fff;
+	margin-top: 88px;
+}
+
+.footer a {
+
+		color: #fff;
+}
